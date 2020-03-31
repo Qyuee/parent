@@ -1,6 +1,3 @@
-[submodule "child"]
-	path = child
-	url = https://github.com/Qyuee/sub_repo.git
 [submodule "common"]
 	path = common
 	url = https://github.com/Qyuee/common.git
